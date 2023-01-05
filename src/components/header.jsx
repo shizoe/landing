@@ -13,7 +13,7 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <a
-                  href='https://www.mlinkme.click' target="_blank"
+                  href='https://www.mlinkme.click' target="_blank" rel="noreferrer"
                   className='btn btn-custom btn-lg page-scroll'
                 >
                   Go To App
