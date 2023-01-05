@@ -1,0 +1,64 @@
+{
+    "Header": {
+
+        "title": "mLINKME",
+        "paragraph": "Making website links fun, short and easy to remember."
+
+    },
+    "About": {
+        "paragraph": "The inspiration for the project stems from the challenges I faced with hosting my portfolio for free using various free hosting plans and free websites. I faced challenges when the owners of the host would suddenly discontinue the free service because of technical issues. This was a challenge especially when I already submitted my portfolio link to various potential employers. It meant that I needed to resubmit my new portfolio link again which was very unprofessional and time-consuming. It was the drive to the development of this product that not only simplifies complex links but also provides a means of updating the link in one place and has all those who have access to the link to obtain updated information. It will make links also look uniform minus the need of worrying about advertisements which was the challenge I faced with most available link shorteners when using the free tier. This would discourage potential employers since they have to wait a few minutes or so for your link to be loaded which is not the case for this one. This is all made possible because of ALX Software Engineering Program which eneabled me with the technical knowhow of developing such an application. To know more about the product, please find the links attached below.",
+        "Why": [{
+            "icon": "fa fa-github-square",
+            "name": "Mabo Mbebeta",
+            "href": "https://github.com/shizoe/"
+        },
+        {
+            "icon": "fa fa-linkedin",
+            "name": "Mabo Mbebeta",
+            "href": "https://www.linkedin.com/in/mabo-mbebeta/"
+        }, {
+            "icon": "fa fa-facebook",
+            "name": "Mabo Mbebeta",
+            "href": "https://www.facebook.com/mabo.mbebeta"
+        },
+        {
+            "icon": "fa fa-twitter",
+            "name": "Mabo Mbebeta",
+            "href": "https://twitter.com/MaboMbebeta"
+        }
+        ],
+        "Why2": [{
+            "icon": "fa fa-github",
+            "name": "mLINKME Repository",
+            "href": "https://github.com/shizoe/LINKME"
+        }
+
+        ]
+    },
+    "Features": [{
+            "gif": "img/features/link_short.gif",
+            "title": "One Click URL Shortener",
+            "text": "This is the main feature of the project were all the magic happens. You type in the URL that needs to be shortened. The application recives that URL processes it and produces the shortened version."
+        },
+        {
+            "gif": "img/features/addurl.gif",
+            "title": "Shorten URLs from User Statisics Page",
+            "text": "Personalized statistics page that allows users to add and shorten URLs without leaving the page for easy and convience allowing user to perform all tasks in one place."
+        },
+        {
+            "gif": "img/features/update.gif",
+            "title": "Update Original URL",
+            "text": "You love your shortened URL, well no need to worry if the orignial URL changes, you can just update it in one click and it will update."
+        },
+        {
+            "gif": "img/features/clicks.gif",
+            "title": "Get Information about how many times your URL has being clicked.",
+            "text": "Everytime someone uses your shorterned link. Information is updated and you get to see how many people have used the link that you share."
+        },
+        {
+            "gif": "img/features/delete.gif",
+            "title": "One Click Deleted URL",
+            "text": "You don't have to worry about your statistics page being crowded as you can easy delete all the links that you are not using."
+        }
+    ]
+}
