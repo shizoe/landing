@@ -30,7 +30,7 @@ export const About = (props) => {
                             {" "}
                             <i className={d.icon}></i>
                             <div className="caption">
-                              <a href={d.href} target="_blank">
+                              <a href={d.href} target="_blank" rel="noreferrer">
                                 {d.name}
                               </a>
                             </div>
@@ -51,7 +51,7 @@ export const About = (props) => {
                             {" "}
                             <i className={d.icon}></i>
                             <div className="caption">
-                              <a href={d.href} target="_blank">
+                              <a href={d.href} target="_blank" rel="noreferrer">
                                 {d.name}
                               </a>
                             </div>
