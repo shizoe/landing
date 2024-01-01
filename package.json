@@ -1,7 +1,7 @@
 {
   "name": "mlinkme-landingpage",
   "private": true,
-  "homepage": "https://landing.mlinkme.click",
+  "homepage": "https://about.mlinkme.us.to/current",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
