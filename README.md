@@ -2,8 +2,8 @@
 
 ### <a href="https://landing.mlinkme.click">ABOUT MLINKME</a>
 
-![](https://github.com/wonderfullandingpage/mylandingpage/blob/master/imgs/01.jpg?raw=true)
-![](https://github.com/wonderfullandingpage/mylandingpage/blob/master/imgs/02.jpg?raw=true)
+![](https://github.com/shizoe/landing/blob/main/public/img/about/home.png?raw=true)
+![](https://github.com/shizoe/landing/blob/main/public/img/about/stats.png?raw=true)
 
 ## Description
 
